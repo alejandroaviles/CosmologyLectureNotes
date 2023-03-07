@@ -1,2 +1,2 @@
-# CosmologyLectureNotes
-Alejandro Aviles. Slides for Cosmology courses
+# Slides for Cosmology courses
+Alejandro Aviles 
