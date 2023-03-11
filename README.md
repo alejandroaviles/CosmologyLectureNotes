@@ -1,2 +1,2 @@
 # Slides for Cosmology courses
-Alejandro Aviles 
+Alejandro Aviles (avilescervantes@gmail.com)
